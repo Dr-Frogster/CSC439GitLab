@@ -1,4 +1,5 @@
 <?php
+/* comment to test github */
 declare(strict_types=1);
 
 class YahtzeeController {
